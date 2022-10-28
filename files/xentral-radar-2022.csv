@@ -1,0 +1,34 @@
+name,ring,quadrant,isNew,description
+React,adopt,languages & frameworks,FALSE,test
+Storybook,adopt,languages & frameworks,FALSE,test
+Redux Tool Kit,adopt,languages & frameworks,FALSE,test
+Selenium Javascript,trial,languages & frameworks,TRUE,test
+Laravel,adopt,languages & frameworks,FALSE,test
+Doctrine,adopt,languages & frameworks,TRUE,test
+PHP,adopt,languages & frameworks,FALSE,test
+NX,adopt,languages & frameworks,FALSE,test
+Java,assess,languages & frameworks,TRUE,test
+Golang,assess,languages & frameworks,TRUE,test
+Eloquent,hold,languages & frameworks,FALSE,test
+WebdriverIO,hold,languages & frameworks,FALSE,
+Selenium Java,hold,languages & frameworks,FALSE,
+React Hook Form,adopt,languages & frameworks,FALSE,
+Chromatic,trial,platforms,FALSE,test
+Kubernetes,trial,platforms,FALSE,test
+New Relic,trial,platforms,FALSE,test
+Sentry,hold,platforms,FALSE,test
+AWS,adopt,platforms,FALSE,test
+Domain Driven Design,adopt,techniques,FALSE,test
+CQRS,assess,techniques,FALSE,test
+Scrum,adopt,techniques,FALSE,test
+User Story Mapping,trial,techniques,TRUE,
+Event Storming,trial,techniques,TRUE,
+Apache Kafka,trial,tools,TRUE,test
+Docker Compose,adopt,tools,FALSE,
+Readme.IO,trial,tools,TRUE,
+MySQL,adopt,tools,FALSE,
+AWS Aurora,trial,tools,TRUE,
+OpenAPI 3.1,adopt,tools,FALSE,
+Behat,adopt,tools,FALSE,
+React Testing Library,adopt,tools,FALSE,
+GitHub Actions,adopt,tools,FALSE,

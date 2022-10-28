@@ -1,0 +1,10 @@
+version: '3.9'
+
+services:
+    nginx:
+        image: wwwthoughtworks/build-your-own-radar:latest
+        ports: ['8080:80']
+        environment:
+            SERVER_NAMES: 'localhost 127.0.0.1'
+        volumes:
+            - ./files/:/opt/build-your-own-radar/files/
