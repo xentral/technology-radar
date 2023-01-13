@@ -12,7 +12,7 @@ Everyone at Xentral is free to contribute to the technology radar. Make sure you
 ## Checking the radar locally
 
 -   `docker-compose up`
--   visit: http://localhost:8080/?sheetId=http%3A%2F%2Flocalhost%3A8080%2Ffiles%2Fxentral-radar-2022.csv
+-   visit: http://localhost:8080/?sheetId=http%3A%2F%2Flocalhost%3A8080%2Ffiles%2Fxentral-radar-2022Q4.csv
 
 Whenever you update the file the tech radar can be refreshed.
 
