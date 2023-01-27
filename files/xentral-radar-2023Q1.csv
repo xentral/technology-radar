@@ -1,0 +1,65 @@
+name,ring,quadrant,isNew,description
+Ansible,adopt,tools,FALSE,Infrastructure automation platform
+Apache Kafka,trial,tools,TRUE,distributed event store and stream-processing platform
+Apache Spark,adopt,languages & frameworks,FALSE,multi-language engine for big data applications
+ArgoCD,adopt,tools,FALSE,GitOps focussed deployment tool. 
+AWS,adopt,platforms,FALSE,Cloud platform build by Amazon
+AWS Athena,adopt,tools,FALSE,interactive query service for S3
+AWS Aurora,trial,tools,TRUE,Database engine for MySQL and PostgreSQL that is highly available and scales
+AWS Glue,adopt,tools,FALSE,serverless data integration service (ETL)
+AWS Lambda,adopt,tools,FALSE,serverless compute service
+AWS S3,adopt,tools,FALSE,object storage service
+AWS Sagemaker,trial,tools,FALSE,cloud machine-learning platform (also interface for python)
+AWS API Gateway,trial,tools,TRUE,"service for creating, publishing, maintaining, monitoring and securing REST, HTTP and WebSocket APIs at scale"
+AWS Kinesis,trial,tools,TRUE,service for building data streams
+AWS ECR,adopt,tools,FALSE,fully managed Docker container registry
+AWS ECS,adopt,tools,FALSE,container management service
+AWS EKS,adopt,tools,FALSE,service for running and managing Kubernetes clusters 
+Behat,adopt,tools,FALSE,Cucumber style testing framework for PHP
+Chromatic,adopt,platforms,FALSE,Visual snapshot testing tool based on StorybookJS
+CQRS,trial,techniques,FALSE,Seperating Command and Query logic
+Deptrac,adopt,tools,FALSE,Tool for enforcing internal project dependencies and structure/architecture
+Docker,adopt,tools,FALSE,platform as code
+Docker Compose,adopt,tools,FALSE,Tool for spinning up multiple docker images locally in sync. Used for creating local developer environments
+Doctrine,adopt,languages & frameworks,TRUE,ORM (Data Mapper pattern)
+Domain Driven Design,adopt,techniques,FALSE,Dev technique to extract business logic
+Eloquent,hold,languages & frameworks,FALSE,ORM (Active Record pattern)
+Event Storming,trial,techniques,TRUE,
+GitHub Actions,adopt,tools,FALSE,
+Golang,assess,languages & frameworks,TRUE,
+Hashicorp Vault,adopt,tools,FALSE,
+Java,assess,languages & frameworks,TRUE,
+Kubernetes,adopt,platforms,FALSE,
+Laravel,adopt,languages & frameworks,FALSE,
+Looker,adopt,tools,FALSE,data exploration and discovery business intelligence platform
+MySQL,adopt,tools,FALSE,
+New Relic,adopt,platforms,FALSE,
+NX,adopt,languages & frameworks,FALSE,
+OpenAPI 3.1,adopt,tools,FALSE,
+AsyncApi,trial,tools,WAHR,
+PHP,adopt,languages & frameworks,FALSE,
+PHPUnit,adopt,tools,FALSE,PHP Testing Framework
+Psalm,adopt,tools,FALSE,PHP Static Analysis Tool
+Python,adopt,languages & frameworks,FALSE,programming language; used to extract & transform data for BI/analytics purposes; also for data migration and complex data models
+React,adopt,languages & frameworks,FALSE,
+React Hook Form,adopt,languages & frameworks,FALSE,
+React Testing Library,adopt,tools,FALSE,
+Readme.IO,trial,tools,TRUE,
+Redux Tool Kit,adopt,languages & frameworks,FALSE,
+Scrum,adopt,techniques,FALSE,
+Secoda,trial,tools,TRUE,"data catalouging & governance tool. It connects to our internal data lake as well as looker and helps document data pipelines, lineage and data products across departments."
+Selenium Java,hold,languages & frameworks,FALSE,
+Selenium Javascript,adopt,languages & frameworks,TRUE,
+Sentry,hold,platforms,FALSE,
+Storybook,adopt,languages & frameworks,FALSE,
+Styled Components,adopt,languages & frameworks,FALSE,
+Symfony components,adopt,languages & frameworks,FALSE,
+Terraform,adopt,tools,FALSE,open-source infrastructure as code software tool 
+Testrail,adopt,tools,FALSE,
+User Story Mapping,trial,techniques,TRUE,
+WebdriverIO,hold,languages & frameworks,FALSE,
+Zapier,hold,tools,FALSE,tool for integrating web applications and automating workflows
+Auth0,trial,tools,TRUE,SAAS product for OAuth authentication
+PhpCsFixer,adopt,tools,FALSE,
+IonCube,hold,tools,FALSE,
+SonarCloud,adopt,tools,FALSE,
